@@ -1,0 +1,22 @@
+project-title: "Untitled Project"
+scope: "A brief one-liner describing what this project covers and why."
+estimated-completion: "YYYY-MM-DD"
+project-tracker: "httpsE://link-to-your-tracker.com"
+persons-assigned: 
+    - "Username, Full Name, Email"
+owner: "Username, Full Name, Email"
+project-manager:
+    - "Username, Full Name, Email"
+userbase: "i.e. graduate students conducting machine learning research..."
+tech-stack-software:
+    - "Language (e.g., Python)"
+    - "Framework (e.g., React)"
+    - "Database (e.g., PostgreSQL)"
+tech-stack-hardware:
+    - "Primary Compute (e.g., Dell XPS 15)"
+    - "Microcontroller (e.g., Raspberry Pi 4)"
+    - "Sensors (e.g., IMU Model XYZ)"
+related-projects:
+    - "Optional-Related-Project-A"
+    - "Optional-Related-Project-B"
+parent-project: "Name of the higher-level project this supports"
