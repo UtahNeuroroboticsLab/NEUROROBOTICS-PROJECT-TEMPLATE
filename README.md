@@ -46,11 +46,11 @@
 * **Key Versions:**
     * Python: `3.10.x`
     * Node.js: `v18.x`
-* **Setup Instructions:** [Link to the README or relevant documentation section for software setup.]
+* **Setup Instructions:** [Link to the README or relevant documentation section for software setup.] See SOFTWARE_SETUP.md for more details.
 
 ### Hardware Requirements
 
-* **Setup Instructions:** [Link to the README or relevant documentation section for hardware setup and connections.]
+* **Setup Instructions:** [Link to the README or relevant documentation section for hardware setup and connections.] See HARDWARE_SETUP.md for more details.
 
 
 ## 5a. Branches
